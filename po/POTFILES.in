@@ -1,0 +1,10 @@
+[encoding: UTF-8]
+TextFlow/core/constants.py
+TextFlow/sidepanels/filebrowser.py
+TextFlow/glade/main_window.glade
+TextFlow/glade/preferences.glade
+TextFlow/languages/c/config.py
+TextFlow/languages/html/config.py
+TextFlow/languages/python/config.py
+TextFlow/languages/ruby/config.py
+TextFlow/languages/xml/config.py

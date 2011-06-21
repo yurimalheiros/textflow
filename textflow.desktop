@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=TextFlow
+#_GenericName=Package Backup Tool
+_Comment=Text Editor for Programming
+Version=0.2
+Encoding=UTF-8
+Icon=textflow
+Exec=textflow %U
+Terminal=false
+Type=Application
+StartupNotify=false
+MimeType=text/plain;application/x-m4;image/x-xpixmap;text/x-ocl;text/x-sh;text/x-yacc;text/x-gtkrc;application/x-shellscript;text/x-ocaml;application/x-awk;text/x-bison;text/html;text/x-changelog;text/x-python;text/x-tex;text/x-msil;application/x-tcl;application/x-gnome-app-info;text/xml;application/x-perl;text/x-ini-file;text/x-php-source;application/docbook+xml;text/x-pkg-config;text/x-erlang;text/x-fortran;application/xml;text/x-php;text/x-boo;text/x-c++;text/x-cpp;text/x-dtd;text/x-js;text/x-matlab;application/x-python;text/x-csharpsrc;text/x-vbnet;text/x-pascal;text/x-dpatch;text/x-sql;text/x-octave;text/x-csrc;text/x-po;text/x-vala;text/x-patch;text/x-gettext-translation;application/x-php;text/x-javascript;text/x-c++src;text/x-texinfo;text/x-makefile;text/x-objcsrc;application/x-php-source;text/x-libtool;text/x-idl;application/x-javascript;text/x-chdr;text/javascript;text/x-verilog-src;text/x-diff;text/css;text/x-pot;text/x-csharp;text/x-java;text/x-pox;text/x-rpm-spec;text/x-lua;text/x-literate-haskell;text/x-scheme;text/x-ruby;application/x-desktop;text/x-vhdl;text/x-adasrc;application/x-ini-file;text/x-dsrc;text/x-haskell;text/x-ada;text/x-c;application/x-ruby;text/x-perl;text/x-shellscript;text/x-vb;text/x-gap;text/x-nemerle;text/x-tcl;text/x-c++hdr;text/x-R;
+Categories=GTK;Development;

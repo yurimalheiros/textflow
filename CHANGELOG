@@ -1,0 +1,43 @@
+TextFlow 0.3 (2009-??-??)
+=========================
+    
+New General Features
+--------------------
+
+  *	New File Browser (LP:#241748)
+  *	Goto line bar (LP:#240185)
+  *	More snippets (LP:#254678, LP:#289870, LP:#301502)
+  *	Snippets definition syntax - Use '\' to escape next character (LP:#241384)
+  * If TextFlow is already a open a new file will be opened in the same window (LP:#240268)
+  *	Convert whitespaces to tabs and tabs to whitespaces (LP:#242808, LP:#301689)
+  *	Move current line or selected lines up or down (LP:#242809)
+  * Language Manager (LP:#243097, LP:#241383)
+  *	A help (LP:#240186)
+  * Don't open 2 or more tabs for the same file (LP:#243304)
+  * Remove search highlight when press ESC in search bar (LP:#274438)
+  * When close the last tab open a new one blank (LP:#302873)
+  * Add some shortcuts in menu (LP:#301114)
+  
+Language Features
+-------------------------
+  
+  * Comment and uncomment lines for Python and Ruby
+  *	Run python script (LP:#252218)
+  *	Python and HTML auto indent (LP:#252219)
+  *	Auto close tags for HTML files (LP:#252220)
+  *	Ctrl+Return trigger to add "<br />" tag in HTML files (LP:#255878)
+  *	Ctrl+B trigger to add or surround the selection with "<strong></strong>" tags in HTML files
+  *	Ctrl+I trigger to add or surround the selection with "<emphasize></emphasize>" tags in HTML files
+
+Bugfixes
+--------
+
+  *	Weird snippet completation (LP:#301117)
+  *	Undo all changes, don't remove "*" from name in tab (LP:#301735)
+  * Some files with supported mime types doesn't appear in file browser (LP:#204269)  
+  * Open/Save file dialog doesn't show extentionless files (LP:#280705)
+  * Word complete weird behavior (LP:#291223)
+  * Tab size returns to default value when file is saved (LP:#294955)
+  * TextFlow snippet document must have XML header (LP:#305518)
+  * TF Fail to start if atual directory in filebrowser is invalid/corrupt etc.. (LP:#313745)
+  * Cannot open two files through file browser (LP:#290084)

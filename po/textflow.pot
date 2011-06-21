@@ -1,0 +1,508 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: textflow@gmail.com\n"
+"POT-Creation-Date: 2009-02-02 14:14-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. End of internationalization stuff
+#. Strings
+#: ../TextFlow/core/constants.py:78 ../TextFlow/sidepanels/filebrowser.py:169
+#: ../TextFlow/sidepanels/filebrowser.py:485
+msgid "New File"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:79
+msgid "Save"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:80
+msgid "Open"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:81
+msgid "If you don't save it, your changes will be permanently lost."
+msgstr ""
+
+#: ../TextFlow/core/constants.py:82
+msgid "<b>Save the changes to this document before closing?</b>"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:83
+msgid "Close without saving"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:84
+msgid "<b>Save the changes of unsaved tabs before closing?</b>"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:85
+msgid "Save selected files"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:86
+msgid "Search for:"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:87
+msgid "Replace with:"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:88
+msgid "<b>Cannot load snippet file</b>"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:89
+msgid "The snippet xml file has errors and can't be loaded."
+msgstr ""
+
+#: ../TextFlow/core/constants.py:90
+msgid "If you don't save they, your changes will be permanently lost."
+msgstr ""
+
+#: ../TextFlow/core/constants.py:91
+msgid "<b>Save the changes of this document before change encode?</b>"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:92
+msgid "No Document Open"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:93
+msgid "Line: "
+msgstr ""
+
+#: ../TextFlow/core/constants.py:94
+msgid "Column: "
+msgstr ""
+
+#: ../TextFlow/core/constants.py:95
+msgid "<b>Could not save the file.</b>"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:96
+msgid "You do not have the permissions necessary to save the file."
+msgstr ""
+
+#: ../TextFlow/core/constants.py:97
+msgid "<b>TextFlow cannot decode this file with default encoding</b>"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:98
+msgid "Select a character encoding from the menu and try again."
+msgstr ""
+
+#: ../TextFlow/core/constants.py:99
+msgid "Character encoding: "
+msgstr ""
+
+#: ../TextFlow/core/constants.py:100
+msgid "Other encoding"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:101
+msgid "<b>Select a character encoding from the list.</b>"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:102
+msgid ""
+"TextFlow cannot save this file with current encoding, please change current "
+"encoding and try again."
+msgstr ""
+
+#: ../TextFlow/core/constants.py:103
+msgid "Tab Size:"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:104
+msgid "Filter:"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:105
+msgid "Goto line:"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:106
+msgid "Could not connect to dbus session bus. Dbus will be unavailable."
+msgstr ""
+
+#: ../TextFlow/core/constants.py:107
+#, python-format
+msgid "The file %s is too large, you want really open it?"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:108
+msgid "Press any key to close terminal"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:114
+msgid ""
+"TextFlow - Copyright (c) 2007-2009\n"
+" Yuri Malheiros <ymalheiros@gmail.com>"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:117
+msgid "Developers:"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:121
+msgid "Contributors:"
+msgstr ""
+
+#: ../TextFlow/core/constants.py:137
+msgid "translator-credits"
+msgstr ""
+
+#. The name of this side panel
+#: ../TextFlow/sidepanels/filebrowser.py:34
+msgid "File Browser"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:132
+msgid "Back"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:138
+msgid "Forward"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:174
+#: ../TextFlow/sidepanels/filebrowser.py:636
+msgid "New Folder"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:179
+msgid "Refresh"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:184
+msgid "Filter"
+msgstr ""
+
+#. Add file only once
+#: ../TextFlow/sidepanels/filebrowser.py:242
+#: ../TextFlow/sidepanels/filebrowser.py:260
+#: ../TextFlow/sidepanels/filebrowser.py:357
+msgid "(Empty)"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:502
+msgid "<b>You can't create a file.</b>"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:503
+msgid ""
+"You don't have the required permissions to create a file in this directory."
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:575
+msgid "A file with the same name already exists. Please use a different name."
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:576
+msgid "<b>File already exists.</b>"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:652
+msgid "<b>You can't create a folder.</b>"
+msgstr ""
+
+#: ../TextFlow/sidepanels/filebrowser.py:653
+msgid ""
+"You don't have the required permissions to create a folder in this directory."
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:1
+msgid "Close Ta_b"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:2
+msgid "Convert Spaces to Tabs"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:3
+msgid "Convert Tabs to Spaces"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:4
+msgid "Dup_licate Line"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:5
+msgid "Goto Line"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:6
+msgid "Language"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:7
+msgid "Lowe_r Case"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:8
+msgid "R_eplace Bar"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:9
+msgid "Replace"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:10
+msgid "Replace _All"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:11
+msgid "Save Al_l"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:12
+msgid "Search _Bar"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:13
+msgid "Search _Next"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:14
+msgid "Search _Previous"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:15
+msgid "TextFlow"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:16
+msgid "Upp_er Case"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:17
+msgid "_Delete Line"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:18
+msgid "_Edit"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:19
+msgid "_File"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:20
+msgid "_Help"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:21
+msgid "_Line Numbers"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:22
+msgid "_Replace"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:23
+msgid "_Search"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:24
+msgid "_Side Panel"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:25
+msgid "_Toolbar"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:26
+msgid "_View"
+msgstr ""
+
+#: ../TextFlow/glade/main_window.glade.h:27
+msgid "gtk-preferences"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:1
+msgid "<b>Brackets matching</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:2
+msgid "<b>Color Schemes</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:3
+msgid "<b>Current Line</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:4
+msgid "<b>Encoding</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:5
+msgid "<b>Font</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:6
+msgid "<b>Indentation</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:7
+msgid "<b>Right Margin</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:8
+msgid "<b>Save Options</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:9
+msgid "<b>Tabs</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:10
+msgid "<b>Text wrapping</b>"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:11
+msgid "Automatic _indentation"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:12
+msgid "Create a _backup copy of file before saving"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:13
+msgid "Default encoding:"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:14
+msgid "Display _right margin"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:15
+msgid "Editor"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:16
+msgid "Editor font:"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:17
+msgid "Enable _brackets matching"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:18
+msgid "Enable text _wrapping"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:19
+msgid "Fonts and Colors"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:20
+msgid "Highlight current _line"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:21
+msgid ""
+"LF\n"
+"CR LF"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:23
+msgid "Line ending:"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:24
+msgid "Open and Save"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:25
+msgid "Preferences"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:26
+msgid "Right margin position:"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:27
+msgid "Use _spaces instead of tabs"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:28
+msgid "_Autosave files every"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:29
+msgid "_Reopen tabs on program initialization"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:30
+msgid "_Save all files when program focus is lost"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:31
+msgid "gtk-add"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:32
+msgid "gtk-close"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:33
+msgid "gtk-remove"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:34
+msgid "minutes"
+msgstr ""
+
+#: ../TextFlow/glade/preferences.glade.h:35
+msgid ""
+"utf-7\n"
+"utf-8\n"
+"utf-16\n"
+"iso-8859-1\n"
+"iso-8859-2\n"
+"iso-8859-4\n"
+"iso-8859-5\n"
+"iso-8859-6\n"
+"iso-8859-7\n"
+"iso-8859-9\n"
+"iso-8859-15\n"
+"gb2312"
+msgstr ""
+
+#: ../TextFlow/languages/html/config.py:4
+msgid "Line Break"
+msgstr ""
+
+#: ../TextFlow/languages/html/config.py:6
+msgid "Strong"
+msgstr ""
+
+#: ../TextFlow/languages/html/config.py:7
+msgid "Emphasize"
+msgstr ""
+
+#: ../TextFlow/languages/python/config.py:5
+#: ../TextFlow/languages/ruby/config.py:5
+msgid "Comment Line"
+msgstr ""
+
+#: ../TextFlow/languages/python/config.py:6
+#: ../TextFlow/languages/ruby/config.py:6
+msgid "Uncomment Line"
+msgstr ""
+
+#: ../TextFlow/languages/python/config.py:8
+msgid "Run"
+msgstr ""
