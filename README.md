@@ -50,13 +50,13 @@ Team
 * Elyézer Rezend (website maintainer)
 * Waldecir Santos (developer and documentation writer)
 
-### more awesome people that contributed to the project
+### More awesome people that contributed to the project
 
 * Bastian Kennel
 * Dickson Guedes
 * Gaetan Podevijn
 * Laudeci Oliveira
 * Luiz Armesto
-* Og Macial
+* Og Maciel
 * Rafael Proença
 * Ricardo Pascal
