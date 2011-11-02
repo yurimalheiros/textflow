@@ -47,7 +47,7 @@ Team
 
 * Yuri Malheiros (project leader, developer and documentation writer)
 * Andrews Medina (developer)
-* Elyézer Rezend (website maintainer)
+* Elyézer Rezende (website maintainer)
 * Waldecir Santos (developer and documentation writer)
 
 ### More awesome people that contributed to the project
